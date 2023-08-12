@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688956240 source:c:\users\sofia\documents\programacion 2\practicaparcial2lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
